@@ -1,0 +1,14 @@
+C:\Users\UmerDraz\source\repos\testApp\Test.Data.Configuration\bin\Debug\Test.Data.Configuration.dll.config
+C:\Users\UmerDraz\source\repos\testApp\Test.Data.Configuration\bin\Debug\Test.Data.Configuration.dll
+C:\Users\UmerDraz\source\repos\testApp\Test.Data.Configuration\bin\Debug\Test.Data.Configuration.pdb
+C:\Users\UmerDraz\source\repos\testApp\Test.Data.Configuration\bin\Debug\EntityFramework.dll
+C:\Users\UmerDraz\source\repos\testApp\Test.Data.Configuration\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\UmerDraz\source\repos\testApp\Test.Data.Configuration\bin\Debug\Test.Entity.dll
+C:\Users\UmerDraz\source\repos\testApp\Test.Data.Configuration\bin\Debug\Test.Entity.pdb
+C:\Users\UmerDraz\source\repos\testApp\Test.Data.Configuration\bin\Debug\EntityFramework.xml
+C:\Users\UmerDraz\source\repos\testApp\Test.Data.Configuration\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\UmerDraz\source\repos\testApp\Test.Data.Configuration\obj\Debug\Test.Data.Configuration.csprojAssemblyReference.cache
+C:\Users\UmerDraz\source\repos\testApp\Test.Data.Configuration\obj\Debug\Test.Data.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\UmerDraz\source\repos\testApp\Test.Data.Configuration\obj\Debug\Test.Data.Configuration.csproj.CopyComplete
+C:\Users\UmerDraz\source\repos\testApp\Test.Data.Configuration\obj\Debug\Test.Data.Configuration.dll
+C:\Users\UmerDraz\source\repos\testApp\Test.Data.Configuration\obj\Debug\Test.Data.Configuration.pdb

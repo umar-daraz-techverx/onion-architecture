@@ -1,0 +1,6 @@
+C:\Users\UmerDraz\source\repos\testApp\Test.Entity\bin\Debug\Test.Entity.dll
+C:\Users\UmerDraz\source\repos\testApp\Test.Entity\bin\Debug\Test.Entity.pdb
+C:\Users\UmerDraz\source\repos\testApp\Test.Entity\obj\Debug\Test.Entity.csprojAssemblyReference.cache
+C:\Users\UmerDraz\source\repos\testApp\Test.Entity\obj\Debug\Test.Entity.csproj.CoreCompileInputs.cache
+C:\Users\UmerDraz\source\repos\testApp\Test.Entity\obj\Debug\Test.Entity.dll
+C:\Users\UmerDraz\source\repos\testApp\Test.Entity\obj\Debug\Test.Entity.pdb
